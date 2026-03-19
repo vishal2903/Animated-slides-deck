@@ -1,16 +1,10 @@
 <div align="center">
 
-# 🎬 Animated Slides Pipeline
+#  Animated Slides Pipeline
 
 **Type a topic. Get a cinematic AI presentation. Open it in your browser.**
 
-[![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=flat&logo=python&logoColor=white)](https://python.org)
-[![Gemini](https://img.shields.io/badge/Gemini-2.5_Flash-4285F4?style=flat&logo=google&logoColor=white)](https://ai.google.dev)
-[![Imagen](https://img.shields.io/badge/Imagen-4.0-34A853?style=flat&logo=google&logoColor=white)](https://ai.google.dev)
-[![Kling](https://img.shields.io/badge/Kling-2.1_Pro-FF6B35?style=flat)](https://fal.ai)
-[![License](https://img.shields.io/badge/License-MIT-00d4c8?style=flat)](LICENSE)
 
-</div>
 
 ---
 
